@@ -7,3 +7,5 @@ bind() 메소드는 호출될 때,<br/>주어진 첫번째 인자 값은 this에
 </blockquote>
 
 저의 경험상, 다른 함수로 전달하고자 하는 클래스의 메소드에서 this의 값을 바인딩할 때 가장 유용합니다. 이는 React 클래스형 컴포넌트에서 자주 사용됩니다.
+![image](https://user-images.githubusercontent.com/59217352/160279596-35594714-28e6-43e8-89d4-0417849e888b.png)
+https://godsenal.com/posts/Javascript%EC%97%90%EC%84%9C-this%EC%99%80-React%EC%97%90%EC%84%9C-binding/
