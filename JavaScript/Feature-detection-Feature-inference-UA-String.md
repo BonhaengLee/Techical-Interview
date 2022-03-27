@@ -31,6 +31,9 @@ if (document.getElementsByTagName) {
 
 이것은 권장하지 않습니다.  
 이유는 다음과 같이 사용하는 feature를 체크하지 않아 불일치가 발생할 수 있기 때문입니다.
+![image](https://user-images.githubusercontent.com/59217352/160279999-e7713910-e8af-4b99-a22e-cf923ec5714b.png)  
+https://lucybain.com/blog/2014/feature-detection-vs-inference/
+
 
 ## UA String ##
 
