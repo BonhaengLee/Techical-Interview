@@ -1,2 +1,2 @@
-# Techical-Interview
-Techical Interview  preparation
+# Technical-Interview
+Technical Interview  preparation
